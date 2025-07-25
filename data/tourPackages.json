@@ -1,0 +1,460 @@
+[
+  {
+    "id": 1,
+    "title": "Alleppey Houseboat Retreat",
+    "description": "Embark on a serene 2-day journey through the tranquil backwaters of Alleppey, Kerala. Cruise along palm-fringed canals aboard a traditional houseboat, enjoy authentic Kerala cuisine, and witness a mesmerizing sunset over the water.",
+    "price": 12000,
+    "duration": "2 days, 1 night",
+    "image": "/images/Alleppey-Houseboat-Retreat.webp",
+    "slug": "alappey-houseboat-retreat",
+    "detailedDescription": "Experience the charm of Alleppey’s backwaters on a private houseboat. This retreat offers a unique blend of relaxation and cultural immersion, with opportunities to observe local village life and lush greenery from the water. The houseboat features a cozy bedroom, attached bathroom, and a deck for scenic views.",
+    "food": [
+      "All meals included (breakfast, lunch, dinner) featuring authentic Kerala cuisine",
+      "Welcome drink and evening snacks",
+      "Bottled water provided throughout the trip"
+    ],
+    "accommodation": [
+      "Overnight stay on a private houseboat (1 bedroom, air-conditioned)"
+    ],
+    "activities": [
+      "Sunset cruise",
+      "Guided backwater tour"
+    ],
+    "inclusions": [
+      "Overnight stay on a private houseboat (1 bedroom, air-conditioned)",
+      "All meals (breakfast, lunch, dinner - authentic Kerala cuisine)",
+      "Sunset cruise and guided backwater tour",
+      "Welcome drink and evening snacks",
+      "Bottled water throughout the trip"
+    ],
+    "exclusions": [
+      "Alcoholic beverages",
+      "Personal expenses",
+      "Transportation to/from Alleppey"
+    ],
+    "itinerary": {
+      "day1": "Arrive at Alleppey by noon, board the houseboat, enjoy a welcome drink, and begin the cruise. Savor a traditional Kerala lunch, relax on the deck, and take an evening sunset cruise. Dinner and overnight stay on the houseboat.",
+      "day2": "Morning breakfast on the houseboat, continue cruising through narrow canals, disembark by noon."
+    },
+    "travelArrangements": "Guests are responsible for arranging transportation to Alleppey. Pick-up/drop-off from Alleppey jetty is included. Houseboat staff will assist with boarding."
+  },
+  {
+    "id": 2,
+    "title": "Munnar Tea Trails",
+    "description": "Discover the lush tea plantations of Munnar with guided treks, a stay in a charming colonial bungalow, and visits to scenic viewpoints.",
+    "price": 15000,
+    "duration": "3 days, 2 nights",
+    "image": "/images/Munnar-Tea-Trails.webp",
+    "slug": "munnar-tea-trails",
+    "detailedDescription": "Immerse yourself in the rolling hills of Munnar, known for its sprawling tea estates and cool climate. This package includes guided treks through tea plantations, visits to local tea factories, and a stay in a historic colonial bungalow with panoramic views of the Western Ghats.",
+    "food": [
+      "Daily breakfast and dinner (local and continental options)",
+      "Tea tasting during factory visit",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "2-night stay in a colonial bungalow (twin-sharing, non-AC)"
+    ],
+    "activities": [
+      "Guided treks through tea plantations",
+      "Tea factory visit with tasting session",
+      "Visit to scenic viewpoints"
+    ],
+    "inclusions": [
+      "2-night stay in a colonial bungalow (twin-sharing, non-AC)",
+      "Daily breakfast and dinner (local and continental options)",
+      "Guided treks to tea plantations and viewpoints",
+      "Tea factory visit with tasting session",
+      "Transportation within Munnar"
+    ],
+    "exclusions": [
+      "Travel to/from Munnar",
+      "Lunch and personal expenses",
+      "Entry fees to optional attractions"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Munnar, check into the bungalow, and relax. Evening visit to a nearby tea garden. Dinner and overnight stay.",
+      "day2": "Morning trek through tea plantations, visit a tea factory, and explore a viewpoint. Return for dinner and overnight stay.",
+      "day3": "Breakfast, optional visit to Eravikulam National Park (additional cost), check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Munnar. Local transportation for treks and visits is provided via shared jeeps or vans."
+  },
+  {
+    "id": 3,
+    "title": "Kochi Cultural Escape",
+    "description": "Dive into the rich heritage of Fort Kochi with a guided heritage walk, a vibrant Kathakali dance performance, and a tasting of local cuisine.",
+    "price": 8000,
+    "duration": "1 day",
+    "image": "/images/Kochi-Cultural-Escape.webp",
+    "slug": "kochi-cultural-escape",
+    "detailedDescription": "Explore the historic charm of Fort Kochi, a melting pot of cultures with Portuguese, Dutch, and British influences. This day trip includes a guided walk through heritage sites, a mesmerizing Kathakali performance, and a curated tasting of Kerala’s coastal delicacies.",
+    "food": [
+      "Lunch with local coastal cuisine",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "No overnight accommodation (day trip)"
+    ],
+    "activities": [
+      "Guided heritage walk through Fort Kochi and Mattancherry",
+      "Kathakali dance performance"
+    ],
+    "inclusions": [
+      "Guided heritage walk (Fort Kochi and Mattancherry)",
+      "Kathakali dance show ticket",
+      "Local cuisine tasting (lunch included)",
+      "Bottled water and guide services"
+    ],
+    "exclusions": [
+      "Transportation to/from Kochi",
+      "Personal shopping expenses",
+      "Additional meals or snacks"
+    ],
+    "itinerary": {
+      "day1": "Morning heritage walk through Fort Kochi, visiting Chinese fishing nets and St. Francis Church. Lunch with local cuisine. Afternoon visit to Mattancherry Palace, followed by a Kathakali show. Tour ends by evening."
+    },
+    "travelArrangements": "Guests arrange travel to Kochi. The tour starts and ends at a designated point in Fort Kochi, with walking and short auto-rickshaw rides included."
+  },
+  {
+    "id": 4,
+    "title": "Wayanad Wildlife Adventure",
+    "description": "Embark on a thrilling safari in Wayanad’s wildlife sanctuary and spend nights in a unique treehouse surrounded by nature.",
+    "price": 18000,
+    "duration": "3 days, 2 nights",
+    "image": "/images/Wayanad-Wildlife-Adventure.webp",
+    "slug": "wayanad-wildlife-adventure",
+    "detailedDescription": "Experience the wild side of Wayanad with a safari in Muthanga Wildlife Sanctuary, home to elephants, deer, and tigers. Stay in an eco-friendly treehouse nestled in the forest, offering a perfect blend of adventure and tranquility.",
+    "food": [
+      "Daily breakfast and dinner",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "2-night stay in an eco-friendly treehouse (twin-sharing, non-AC)"
+    ],
+    "activities": [
+      "Guided wildlife safari in Muthanga Sanctuary",
+      "Nature walk with a local guide"
+    ],
+    "inclusions": [
+      "2-night stay in a treehouse (twin-sharing, non-AC)",
+      "Daily breakfast and dinner",
+      "Guided wildlife safari in Muthanga Sanctuary",
+      "Nature walk with a local guide",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Wayanad",
+      "Lunch and personal expenses",
+      "Camera fees during safari"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Wayanad, check into the treehouse, and relax. Evening nature walk. Dinner and overnight stay.",
+      "day2": "Morning safari in Muthanga Wildlife Sanctuary. Afternoon free to explore nearby trails. Dinner and overnight stay.",
+      "day3": "Breakfast, optional visit to Edakkal Caves (additional cost), check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Wayanad. Safari transportation is provided via shared jeeps. Treehouse is accessible by a short walk from the parking area."
+  },
+  {
+    "id": 5,
+    "title": "Kovalam Beach Getaway",
+    "description": "Unwind on the sun-kissed beaches of Kovalam with a stay in a beachfront resort and a rejuvenating Ayurvedic massage.",
+    "price": 10000,
+    "duration": "2 days, 1 night",
+    "image": "/images/Kovalam-Beach-Getaway.webp",
+    "slug": "kovalam-beach-getaway",
+    "detailedDescription": "Escape to Kovalam’s golden beaches, known for their serene beauty and vibrant lighthouse. This package offers a relaxing stay in a beachfront resort, a traditional Ayurvedic massage, and ample time to soak in the coastal vibes.",
+    "food": [
+      "Breakfast and dinner (local and continental options)",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "1-night stay in a beachfront resort (twin-sharing, AC)"
+    ],
+    "activities": [
+      "1-hour Ayurvedic massage session",
+      "Access to Lighthouse Beach"
+    ],
+    "inclusions": [
+      "1-night stay in a beachfront resort (twin-sharing, AC)",
+      "Breakfast and dinner",
+      "1-hour Ayurvedic massage session",
+      "Access to resort amenities (pool, beach access)",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Kovalam",
+      "Lunch and additional spa treatments",
+      "Water sports activities"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Kovalam, check into the resort, and enjoy the beach. Afternoon Ayurvedic massage. Dinner and overnight stay.",
+      "day2": "Morning breakfast, free time to explore Lighthouse Beach, check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Kovalam. The resort is a short walk from the beach, with local transport available for nearby exploration."
+  },
+  {
+    "id": 6,
+    "title": "Thekkady Spice Tour",
+    "description": "Explore the lush spice plantations of Thekkady and visit Periyar National Park for a wildlife boat ride.",
+    "price": 14000,
+    "duration": "2 days, 1 night",
+    "image": "/images/Thekkady-Spice-Tour.webp",
+    "slug": "thekkady-spice-tour",
+    "detailedDescription": "Discover the aromatic world of Thekkady’s spice plantations and the biodiversity of Periyar National Park. This tour includes a guided walk through spice gardens and a boat ride on Periyar Lake, offering chances to spot wildlife.",
+    "food": [
+      "Breakfast and dinner (local and vegetarian options)",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "1-night stay in a jungle lodge (twin-sharing, AC)"
+    ],
+    "activities": [
+      "Guided spice plantation tour",
+      "Boat ride in Periyar National Park"
+    ],
+    "inclusions": [
+      "1-night stay in a jungle lodge (twin-sharing, AC)",
+      "Breakfast and dinner",
+      "Guided spice plantation tour",
+      "Boat ride in Periyar National Park",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Thekkady",
+      "Lunch and personal expenses",
+      "Additional activities like bamboo rafting"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Thekkady, check into the lodge, and visit a spice plantation. Evening free to relax. Dinner and overnight stay.",
+      "day2": "Morning boat ride in Periyar National Park, breakfast, check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Thekkady. Local transportation for the spice tour and boat ride is included via shared vehicles."
+  },
+  {
+    "id": 7,
+    "title": "Thrissur Festival Experience",
+    "description": "Immerse yourself in the vibrant Thrissur Pooram festival with guided tours and cultural experiences.",
+    "price": 9000,
+    "duration": "1 day",
+    "image": "/images/Thrissur-Festival-Experience.webp",
+    "slug": "thrissur-festival-experience",
+    "detailedDescription": "Join the electrifying Thrissur Pooram, one of Kerala’s grandest temple festivals, known for its colorful processions and fireworks. This guided tour offers prime viewing spots and insights into the festival’s traditions.",
+    "food": [
+      "Lunch with local delicacies",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "No overnight accommodation (day trip)"
+    ],
+    "activities": [
+      "Guided festival tour with reserved viewing area",
+      "Cultural immersion with festival insights"
+    ],
+    "inclusions": [
+      "Guided festival tour with reserved viewing area",
+      "Lunch with local delicacies",
+      "Cultural guide services",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Thrissur",
+      "Personal expenses",
+      "Evening fireworks viewing (optional)"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Thrissur, join the guided tour of Thrissur Pooram. Enjoy the procession, lunch, and cultural insights. Tour ends by evening."
+    },
+    "travelArrangements": "Guests arrange travel to Thrissur. The tour starts at a central meeting point, with walking and short vehicle transfers included."
+  },
+  {
+    "id": 8,
+    "title": "Varkala Cliff Retreat",
+    "description": "Rejuvenate with a yoga retreat on Varkala’s scenic cliffs, complete with beach access and meditation sessions.",
+    "price": 13000,
+    "duration": "3 days, 2 nights",
+    "image": "/images/Varkala-Cliff-Retreat.webp",
+    "slug": "varkala-cliff-retreat",
+    "detailedDescription": "Find peace and balance on Varkala’s dramatic cliffs overlooking the Arabian Sea. This yoga retreat includes daily yoga and meditation sessions, comfortable accommodations, and time to explore the nearby beaches.",
+    "food": [
+      "Daily breakfast and dinner (vegetarian options)",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "2-night stay in a cliffside resort (twin-sharing, AC)"
+    ],
+    "activities": [
+      "Daily yoga and meditation sessions",
+      "Guided cliff walk",
+      "Beach access"
+    ],
+    "inclusions": [
+      "2-night stay in a cliffside resort (twin-sharing, AC)",
+      "Daily breakfast and dinner (vegetarian options)",
+      "Daily yoga and meditation sessions",
+      "Beach access and guided cliff walk",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Varkala",
+      "Lunch and personal expenses",
+      "Additional wellness treatments"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Varkala, check into the resort, and attend an evening yoga session. Dinner and overnight stay.",
+      "day2": "Morning yoga and meditation, free time to explore the beach, evening yoga session. Dinner and overnight stay.",
+      "day3": "Morning yoga, breakfast, check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Varkala. The resort is a short walk from the cliffs and beach, with local transport available."
+  },
+  {
+    "id": 9,
+    "title": "Kumarakom Birdwatching Tour",
+    "description": "Enjoy birdwatching in Kumarakom’s renowned bird sanctuary with a stay in a serene lakeside cottage.",
+    "price": 11000,
+    "duration": "2 days, 1 night",
+    "image": "/images/Kumarakom-Birdwatching-Tour.webp",
+    "slug": "kumarakom-birdwatching-tour",
+    "detailedDescription": "Discover the avian wonders of Kumarakom Bird Sanctuary, a haven for migratory birds like egrets and herons. Stay in a cozy lakeside cottage and enjoy guided birdwatching sessions along Vembanad Lake.",
+    "food": [
+      "Breakfast and dinner (local and vegetarian options)",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "1-night stay in a lakeside cottage (twin-sharing, AC)"
+    ],
+    "activities": [
+      "Guided birdwatching tour with an expert",
+      "Boat ride for birdwatching"
+    ],
+    "inclusions": [
+      "1-night stay in a lakeside cottage (twin-sharing, AC)",
+      "Breakfast and dinner",
+      "Guided birdwatching tour with an expert",
+      "Boat ride for birdwatching",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Kumarakom",
+      "Lunch and personal expenses",
+      "Binoculars or camera fees"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Kumarakom, check into the cottage, and enjoy an evening birdwatching boat ride. Dinner and overnight stay.",
+      "day2": "Morning birdwatching tour in the sanctuary, breakfast, check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Kumarakom. Boat transfers for birdwatching are included, with cottages accessible by road."
+  },
+  {
+    "id": 10,
+    "title": "Kannur Coastal Drive",
+    "description": "Take a scenic drive along Kannur’s coastline, visiting historic forts, serene beaches, and local fishing villages.",
+    "price": 7000,
+    "duration": "1 day",
+    "image": "/images/Kannur-Coastal-Drive.webp",
+    "slug": "kannur-coastal-drive",
+    "detailedDescription": "Experience the rugged beauty of Kannur’s coastline with a guided drive. Visit the historic St. Angelo Fort, relax on Payyambalam Beach, and explore traditional fishing villages for a glimpse of coastal life.",
+    "food": [
+      "Lunch at a local seafood restaurant",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "No overnight accommodation (day trip)"
+    ],
+    "activities": [
+      "Guided coastal drive",
+      "Visit to St. Angelo Fort",
+      "Exploration of Payyambalam Beach and fishing villages"
+    ],
+    "inclusions": [
+      "Guided coastal drive with an air-conditioned vehicle",
+      "Lunch at a local seafood restaurant",
+      "Entry to St. Angelo Fort",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Kannur",
+      "Personal expenses",
+      "Additional snacks or drinks"
+    ],
+    "itinerary": {
+      "day1": "Morning pickup in Kannur, visit St. Angelo Fort, drive to Payyambalam Beach, and explore a fishing village. Lunch included. Tour ends by evening."
+    },
+    "travelArrangements": "Guests arrange travel to Kannur. The tour includes an air-conditioned vehicle for the coastal drive, starting and ending at a central point in Kannur."
+  },
+  {
+    "id": 11,
+    "title": "Idukki Hill Escape",
+    "description": "Explore Idukki’s rolling hills, stay in a hilltop cottage, and visit cascading waterfalls and viewpoints.",
+    "price": 16000,
+    "duration": "3 days, 2 nights",
+    "image": "/images/Idukki-Hill-Escape.webp",
+    "slug": "idukki-hill-escape",
+    "detailedDescription": "Escape to the serene hills of Idukki, known for its misty landscapes and lush greenery. This package includes a stay in a hilltop cottage, visits to waterfalls like Cheeyappara, and treks to scenic viewpoints.",
+    "food": [
+      "Daily breakfast and dinner (local and vegetarian options)",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "2-night stay in a hilltop cottage (twin-sharing, non-AC)"
+    ],
+    "activities": [
+      "Guided visits to Cheeyappara and Valara waterfalls",
+      "Short trek to a scenic viewpoint"
+    ],
+    "inclusions": [
+      "2-night stay in a hilltop cottage (twin-sharing, non-AC)",
+      "Daily breakfast and dinner",
+      "Guided visits to Cheeyappara and Valara waterfalls",
+      "Short trek to a viewpoint",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Idukki",
+      "Lunch and personal expenses",
+      "Additional activities like boating"
+    ],
+    "itinerary": {
+      "day1": "Arrive in Idukki, check into the cottage, and relax. Evening visit to a nearby viewpoint. Dinner and overnight stay.",
+      "day2": "Morning visit to Cheeyappara and Valara waterfalls, afternoon trek. Dinner and overnight stay.",
+      "day3": "Breakfast, free time to explore, check out by noon."
+    },
+    "travelArrangements": "Guests arrange travel to Idukki. Local transportation for waterfall visits and treks is provided via shared vehicles."
+  },
+  {
+    "id": 12,
+    "title": "Palakkad Heritage Journey",
+    "description": "Discover Palakkad’s historic forts and temples with a guided tour and a stay in a traditional homestay.",
+    "price": 9500,
+    "duration": "1 day",
+    "image": "/images/Palakkad-Heritage-Journey.webp",
+    "slug": "palakkad-heritage-journey",
+    "detailedDescription": "Uncover the rich history of Palakkad with visits to the iconic Palakkad Fort and ancient temples. This day trip includes a stay in a traditional Kerala homestay, offering a glimpse into local culture and cuisine.",
+    "food": [
+      "Lunch at a traditional homestay",
+      "Bottled water provided"
+    ],
+    "accommodation": [
+      "No overnight accommodation (day trip)"
+    ],
+    "activities": [
+      "Guided tour of Palakkad Fort",
+      "Visit to Jain Temple",
+      "Cultural immersion at a homestay"
+    ],
+    "inclusions": [
+      "Guided tour of Palakkad Fort and Jain Temple",
+      "Lunch at a traditional homestay",
+      "Cultural guide services",
+      "Bottled water"
+    ],
+    "exclusions": [
+      "Travel to/from Palakkad",
+      "Personal expenses",
+      "Additional meals or snacks"
+    ],
+    "itinerary": {
+      "day1": "Morning visit to Palakkad Fort, followed by a tour of Jain Temple. Lunch at a homestay with cultural insights. Tour ends by evening."
+    },
+    "travelArrangements": "Guests arrange travel to Palakkad. The tour includes short vehicle transfers and walking, starting and ending at a central point in Palakkad."
+  }
+]
